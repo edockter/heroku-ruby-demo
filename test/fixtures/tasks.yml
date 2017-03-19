@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  label: MyString
+  category_id: 1
+  due_date: 2017-03-19
+  completion_date: 2017-03-19 00:51:47
+
+two:
+  label: MyString
+  category_id: 1
+  due_date: 2017-03-19
+  completion_date: 2017-03-19 00:51:47

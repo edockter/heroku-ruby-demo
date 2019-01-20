@@ -49,4 +49,4 @@ group :development do
 end
 
 # specify ruby version for Heroku
-ruby "2.3.0"
+ruby "2.6.0"
